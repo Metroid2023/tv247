@@ -1,0 +1,66 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CANADA" tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cbc.png",CBC Canada
+
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZkb2trbzElMkZwcmVtaXVtODMyJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1  tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="DaddyLive USA",Cartoon Network
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZuZnMlMkZwcmVtaXVtMzM5JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1  tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="DaddyLive USA",Cinemax USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZ6ZWtvJTJGcHJlbWl1bTM3NCUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/discovery-family.png",Discovery Family
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZkb2trbzElMkZwcmVtaXVtNjU3JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/disney-junior.png",Disney JR
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZuZnMlMkZwcmVtaXVtNjUyJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/disney-xd.png",Disney XD
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZ6ZWtvJTJGcHJlbWl1bTMxNCUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-comedy-us.png",HBO Comedy USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZuZnMlMkZwcmVtaXVtNjkwJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Drama.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-drama-us.png",HBO Drama USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZuZnMlMkZwcmVtaXVtNjkzJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-usa.png",HBO USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZ6ZWtvJTJGcHJlbWl1bTMyMSUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Movies.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-movies-usa.png",HBO Movies USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZuZnMlMkZwcmVtaXVtNjk0JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Hits.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-hits-usa.png",HBO Hits USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZuZnMlMkZwcmVtaXVtNjg5JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Nicktoons.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nicktoons.png",Nicktoons
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZkb2trbzElMkZwcmVtaXVtNjQ5JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-2-usa.png",Showtime 2 USA (SHO2) USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZ6ZWtvJTJGcHJlbWl1bTc5MiUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-extreme-usa.png",Showtime Extreme USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZuZnMlMkZwcmVtaXVtNzk0JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-family-zone-usa.png",Showtime Family Zone (SHO Family Zone) USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZuZnMlMkZwcmVtaXVtNzk1JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-next-usa.png",Showtime Next (SHO Next) USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZuZnMlMkZwcmVtaXVtNzk2JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Showcase.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-showcase-usa.png",Showtime Showcase USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZ6ZWtvJTJGcHJlbWl1bTc5MyUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-usa.png",Showtime USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZ3aW5kJTJGcHJlbWl1bTMzMyUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-women-usa.png",Showtime Women USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZkb2trbzElMkZwcmVtaXVtNzk3JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="TMC.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tmc-channel-usa.png",TMC Channel USA
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZkb2trbzElMkZwcmVtaXVtNjk4JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="TeenNick.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/teennick-us.png",TeenNick
+
+https://playlist.imcdn22.cfd/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZkb2trbzElMkZwcmVtaXVtNjUwJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
